@@ -1,0 +1,14 @@
+table{
+    border: 1px solid;
+
+}
+th{
+    background: rgb(250,50,100);
+}
+td{
+    border: 2px dashed;
+    padding: 5px;
+}
+.container{
+    width: 60%;
+}
